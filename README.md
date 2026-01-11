@@ -15,3 +15,4 @@ Results oriented Machine Learning Engineer and B.Tech CSE (AI) student at Babu B
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/1caf5f1f-39c8-481a-8235-9b89344e25fd)
