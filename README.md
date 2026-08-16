@@ -4,7 +4,6 @@ Product-focused **Full Stack Software Engineer** specializing in building scalab
 
 * 🎓 **Education:** B.Tech in CSE at Babu Banarasi Das University (9.33 CGPA)
 * 🏆 **Track Record:** 4x Hackathon Winner (Global & National levels)
-* 💼 **Experience:** Industry experience with JPMorgan Chase & Co.
 * 🛠️ **Open Source:** Contributor to the official `SciPy` library (PR #18214)
 * 🚀 **Focus Areas:** Type-safe systems, low-latency streaming architectures, and production-ready AI pipelines
 
