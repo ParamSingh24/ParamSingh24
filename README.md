@@ -1,5 +1,33 @@
-# 💫 About Me:
-Results oriented Machine Learning Engineer and B.Tech CSE (AI) student at Babu Banarasi Das University, where I am the class topper with a 9.33 CGPA. I specialize in building production-grade AI applications, ranging from architecting end-to-end ML pipelines for IoT energy management systems to fine-tuning custom models for enterprise business automation.<br>As a 2x Hackathon Winner, my leadership and technical skills have been recognized on global and national stages:<br>Global Winner: Secured 1st place in the "AI and Robotics for Disaster Management" theme by the Washington University of Science and Technology (WUST).<br>1st Place Winner: Champion of the BBD University Hackathon 2025.<br>National Finalist: Selected in the Top 30 across India for the Sustainovation Hackathon 2025 by Intin.<br>Global Finalist: Recognized in the AI/GenAI Global Hackathon by Informatica.<br>My technical foundation in Python, PyTorch, and TensorFlow is supported by industry experience at JPMorgan Chase & Co. and contributions to the official SciPy library (PR #18214). I am an experienced Team Leader dedicated to implementing MLOps best practices (Docker, CI/CD) to deliver robust, scalable, and secure intelligent systems.
+# Hey there, I'm Param Singh 👋
+
+Product-focused **Full Stack Software Engineer** specializing in building scalable web architectures, high-performance backends, and AI-integrated applications.
+
+* 🎓 **Education:** B.Tech in CSE at Babu Banarasi Das University (9.33 CGPA)
+* 🏆 **Track Record:** 4x Hackathon Winner (Global & National levels)
+* 💼 **Experience:** Industry experience with JPMorgan Chase & Co.
+* 🛠️ **Open Source:** Contributor to the official `SciPy` library (PR #18214)
+* 🚀 **Focus Areas:** Type-safe systems, low-latency streaming architectures, and production-ready AI pipelines
+
+---
+
+### 💻 Tech Stack & Tooling
+
+* **Frontend:** Next.js (App Router, Server Actions), TypeScript, React, Tailwind CSS
+* **Backend:** Python (FastAPI), Node.js, REST APIs, Redis, Celery / Background Workers
+* **Databases & ORM:** PostgreSQL, Supabase, Neon, Drizzle ORM, Prisma, pgvector
+* **AI & Search Engineering:** Vercel AI SDK, RAG Architectures, LLM Integration, GEO (Generative Engine Optimization)
+* **DevOps & Infrastructure:** Docker, Git, GitHub Actions, CI/CD, AWS, Vercel
+
+---
+
+### 🏆 Key Achievements
+
+* **1st Place Global Winner:** "AI and Robotics for Disaster Management" theme hosted by Washington University of Science and Technology (WUST).
+* **Champion:** BBD University Hackathon 2025.
+* **National Finalist:** Top 30 across India in Sustainovation Hackathon 2025 by Intin.
+* **Global Finalist:** AI/GenAI Global Hackathon by Informatica.
+
+--
 
 
 ## 🌐 Socials:
